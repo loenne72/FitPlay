@@ -5,7 +5,7 @@ A Compose-driven launcher experience with a focus on fitness shortcuts and quick
 - Live clock, date, and contextual greeting on the home surface.
 - Quick action cards for starting workouts, enabling focus, or setting short breaks.
 - Adaptive grid of favorite fitness shortcuts with colorful badges.
-- Material 3 theming with light/dark palettes.
+- Liquid-glass inspired backdrop with frosted cards that channel an iOS-style sheen.
 
 ## Building
 1. Open the project in Android Studio Flamingo or newer.
